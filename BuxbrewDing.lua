@@ -62,7 +62,7 @@ local LevelMessages = {
     [57] = "Fifty-seven! One foot in legend, the other still in Azeroth!",
     [58] = "At 58, whispers of endgame stir, and I answer with force!",
     [59] = "Level 59! Penultimate push, the summit of might awaits!",
-    [60] = "Sixty! Champion of Turtle WoW, legend made, all hail me!",
+    [60] = "Sixty! Champion of Azeroth, legend made, all hail me!",
 }
 
 -- Saved var for last announced level
